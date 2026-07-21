@@ -18,7 +18,7 @@ Excited to share **DeepDoc AI**, an AI-powered document analysis platform that t
 * Large Language Model (LLM) Integration
 * PDF Processing & AI-powered Document Intelligence
 
-🌐 **Live Demo:** https://deepdocai31.netlify.app/
+🌐 **Live Demo:** https://deepdocai01.netlify.app/
 
 This project showcases how Generative AI can simplify document understanding by making information retrieval, summarization, and analysis faster and more intuitive.
 
