@@ -2,7 +2,7 @@
 
 Excited to share **DeepDoc AI**, an AI-powered document analysis platform that transforms lengthy documents into actionable insights within seconds.
 
-✨ **Key Features**
+✨ *Key Features*
 
 * 📄 Upload PDF documents effortlessly
 * 🧠 AI-powered document analysis
