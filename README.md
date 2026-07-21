@@ -1,4 +1,4 @@
-🚀 **Introducing DeepDoc AI** 📄🤖
+🚀 **Introducing DeepDoc AI** 📄🤖💻
 
 Excited to share **DeepDoc AI**, an AI-powered document analysis platform that transforms lengthy documents into actionable insights within seconds.
 
